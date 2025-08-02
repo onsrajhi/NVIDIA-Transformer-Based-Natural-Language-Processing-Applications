@@ -1,0 +1,2 @@
+# NVIDIA-Transformer-Based-Natural-Language-Processing-Applications
+Learn to apply Transformer-based models to Named Entity Recognition (NER) tasks and evaluate their features, limitations, and performance characteristics. This training enables developers to select the most appropriate model for specific use cases by considering key factors such as evaluation metrics, domain relevance, and resource availability.
